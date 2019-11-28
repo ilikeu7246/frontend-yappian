@@ -6,7 +6,7 @@
 
 # About YAPPIAN
 
-<img width="100%" height="500px" src="./src/img/project_live.gif" frameborder="0" />
+(시연 영상)[https://www.youtube.com/watch?v=ch9cgmcZ2hY]
 
 동아리의 기수별로 프로젝트별 진행 상황, 산출물, 협업툴을 볼 수 있고 '완료’된 프로젝트는 설명과 url 등을 기입하여 완료처리가 되어 보여지게 됩니다.
 
