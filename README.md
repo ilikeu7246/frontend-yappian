@@ -1,12 +1,12 @@
 <div align="center">
 	<div><a href="[https://www.youtube.com/watch?v=ch9cgmcZ2hY](https://www.youtube.com/watch?v=ch9cgmcZ2hY)"><img src="./src/img/sample-photo.jpeg" title="mainphoto" alt="mainphoto" width="150px" height="150px"></a></div>
 	<strong>IT 프로젝트 동아리 Yapp의 프로젝트 진행상황 공유 및 아카이빙 웹 서비스</strong>
-	<div>2019.02 - 2019.06</div>rpro
+	<div>2019.02 - 2019.06</div>
 </div>
 
 # About YAPPIAN
 
-(시연 영상)[https://www.youtube.com/watch?v=ch9cgmcZ2hY]
+시연 영상 : https://www.youtube.com/watch?v=ch9cgmcZ2hY
 
 동아리의 기수별로 프로젝트별 진행 상황, 산출물, 협업툴을 볼 수 있고 '완료’된 프로젝트는 설명과 url 등을 기입하여 완료처리가 되어 보여지게 됩니다.
 
